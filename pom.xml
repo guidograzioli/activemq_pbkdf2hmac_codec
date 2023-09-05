@@ -105,7 +105,7 @@
         <repository>
             <id>github</id>
             <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/ansible-middleware/addressbook</url>
+            <url>https://maven.pkg.github.com/guidograzioli/activemq_pbkdf2hmac_codec/</url>
         </repository>
     </distributionManagement>
 
